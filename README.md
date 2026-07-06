@@ -1,9 +1,8 @@
 ## 💫 About Me:
  🔭 I’m currently working on **"A LOT OF" PROJECT**<br> 
  🌱 I’m currently learning **Web Dev Fullstack & Designing Web | Algorithm on Python & C++**<br> 
- 👯 I’m looking to collaborate on **Great project**<br> 
- 🤝 I’m looking for help with **Good project**<br> 
- 📫 How to reach me **vthiep2412@gmail.com | @ComatX32 (Discord)**<br> 
+ 🤝 I’m looking to collaborate on **Great project**<br> 
+ 📫 How to reach me **vthiep2412+github@gmail.com | @ComatX32 (Discord)**<br> 
  ⚡ Fun fact **I think I'm not that bad at **Brainstorming**! Also, I solve the two-sum problem in O(n^n) btw**<br> 
 
 
