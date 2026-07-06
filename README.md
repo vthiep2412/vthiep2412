@@ -1,5 +1,10 @@
 ## 💫 About Me:
- 🔭 I’m currently working on **A LOT OF PROJECT**<br> 🌱 I’m currently learning **Web backend/frontend | Algorithm on Python and C++**<br> 👯 I’m looking to collaborate on **Good project**<br> 🤝 I’m looking for help with **Good project**<br> 📫 How to reach me **vthiep2412@gmail.com | @ComatX32 (Discord)**<br> ⚡ Fun fact **I think I really bad at coding! Also, I solve two sum problem in O(n!)**<br> 🌱 I’m currently learning Web Dev and Designing Web<br>
+ 🔭 I’m currently working on **"A LOT OF" PROJECT**<br> 
+ 🌱 I’m currently learning **Web fullstack & Designing Web | Algorithm on Python and C++**<br> 
+ 👯 I’m looking to collaborate on **Great project**<br> 
+ 🤝 I’m looking for help with **Good project**<br> 
+ 📫 How to reach me **vthiep2412@gmail.com | @ComatX32 (Discord)**<br> 
+ ⚡ Fun fact **I think I'm not that bad at **Brainstorming**! Also, I solve the two-sum problem in O(n^n) btw**<br> 
 
 
 ## 🌐 Socials:
