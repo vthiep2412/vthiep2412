@@ -1,6 +1,6 @@
 ## 💫 About Me:
  🔭 I’m currently working on **"A LOT OF" PROJECT**<br> 
- 🌱 I’m currently learning **Web fullstack & Designing Web | Algorithm on Python and C++**<br> 
+ 🌱 I’m currently learning **Web Dev Fullstack & Designing Web | Algorithm on Python & C++**<br> 
  👯 I’m looking to collaborate on **Great project**<br> 
  🤝 I’m looking for help with **Good project**<br> 
  📫 How to reach me **vthiep2412@gmail.com | @ComatX32 (Discord)**<br> 
