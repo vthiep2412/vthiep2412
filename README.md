@@ -3,15 +3,12 @@
 🔭 I’m currently working on **"A LOT OF"** PROJECT<br>
 🌱 I’m currently learning **Web Dev Fullstack & Designing Web | Algorithm on Python & C++**<br>
 🤝 I’m looking to collaborate on **Great project**<br>
-📫 How to reach me: **vthiep2412@gmail.com | [@ComatX32](https://discord.com/users/874266937507577886) (Discord)**<br>
 ⚡ Fun fact: I think I'm not that bad at **Brainstorming**! Also, I solve the two-sum problem in O(n^n) btw<br>
-
-## 🌐 Socials:
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vthiep2412+github@gmail.com)
-<a href="https://discord.com/users/874266937507577886">
+📫 How to reach me: **vthiep2412@gmail.com  | [@ComatX32](https://discord.com/users/874266937507577886)** <br>
+                [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vthiep2412+github@gmail.com)           <a href="https://discord.com/users/874266937507577886">
 <img src="https://di8m9w6rqrh5d.cloudfront.net/1zObrQ89Q4wHhgFCfYIUhMUvmNf4XjxO/resizable_bf26729b-d5ec-45da-8bf1-0b9af9b25ba2.png?width=800" width="50" alt="Discord" />
-</a>
+</a><br>
+
 
 ## 💻 Tech Stack:
 
@@ -22,7 +19,6 @@
 | **Backend & Cloud**    | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)                                                                                                                                                                                                                                |
 | **Terminal & Tooling** | ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                |
 | **Machine Learning**   | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -30,5 +26,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=vthiep2412&icon=0&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
