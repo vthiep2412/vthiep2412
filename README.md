@@ -4,12 +4,9 @@
 🌱 I’m currently learning **Web Dev Fullstack & Designing Web | Algorithm on Python & C++**<br>
 🤝 I’m looking to collaborate on **Great project**<br>
 ⚡ Fun fact: I think I'm not that bad at **Brainstorming**! Also, I solve the two-sum problem in O(n^n) btw<br>
-📫 How to reach me: **vthiep2412@gmail.com  | [@ComatX32](https://discord.com/users/874266937507577886)** <br>
-                [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vthiep2412+github@gmail.com)           <a href="https://discord.com/users/874266937507577886">
+📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vthiep2412+github@gmail.com)   <a href="https://discord.com/users/874266937507577886">
 <img src="https://di8m9w6rqrh5d.cloudfront.net/1zObrQ89Q4wHhgFCfYIUhMUvmNf4XjxO/resizable_bf26729b-d5ec-45da-8bf1-0b9af9b25ba2.png?width=800" width="50" alt="Discord" />
 </a><br>
-
-
 ## 💻 Tech Stack:
 
 | Category               | Badges                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
